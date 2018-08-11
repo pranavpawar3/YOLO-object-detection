@@ -4,7 +4,7 @@
 
 Real-time object detection and classification. Paper: [version 1](https://arxiv.org/pdf/1506.02640.pdf), [version 2](https://arxiv.org/pdf/1612.08242.pdf).
 
-Read more about YOLO (in darknet) and download weight files [here](http://pjreddie.com/darknet/yolo/). In case the weight file cannot be found, I uploaded some of mine [here](https://drive.google.com/drive/folders/0B1tW_VtY7onidEwyQ2FtQVplWEU), which include `yolo-full` and `yolo-tiny` of v1.0, `tiny-yolo-v1.1` of v1.1 and `yolo`, `tiny-yolo-voc` of v2. For running tiny yolo object detection which was trained on Pascal-VOC dataset,please download the weights from here [here](https://drive.google.com/open?id=1FfXid96qejp886gcinKF30rmllg4peKR), use the weight file named, `yolov2-tiny-voc.weights` for better results.
+Read more about YOLO (in darknet) and download weight files [here](http://pjreddie.com/darknet/yolo/). In case the weight file cannot be found, I uploaded some of mine [here](https://drive.google.com/drive/folders/0B1tW_VtY7onidEwyQ2FtQVplWEU), which include `yolo-full` and `yolo-tiny` of v1.0, `tiny-yolo-v1.1` of v1.1 and `yolo`, `tiny-yolo-voc` of v2. For running tiny yolo object detection which was trained on Pascal-VOC dataset,please download the weights from [here](https://drive.google.com/open?id=1FfXid96qejp886gcinKF30rmllg4peKR), use the weight file named, `yolov2-tiny-voc.weights` for better results.
 
 
 See demo below or see on [this imgur](http://i.imgur.com/EyZZKAA.gif)
